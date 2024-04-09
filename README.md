@@ -1,7 +1,7 @@
 # Welcome To FLAKS Duels and Dungeon [AETERNIS]
 <a id="Join Our Discord">https://discord.gg/kYnw3mJU7j</>
 <a id="My Mordhau Videos">https://www.youtube.com/@_FLAK_</>
-<a id="Map credit:Aleks">https://mod.io/g/mordhau/u/aeternis-modding
+<a id="Map credit">https://mod.io/g/mordhau/u/aeternis-modding
 ## This server boasts 3 distinct modes/maps:
 ### "Testing": 
 ##### Explore a vast map brimming with thrilling mini-games and fun weapons; a personal favorite.
