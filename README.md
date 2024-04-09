@@ -1,21 +1,19 @@
 # Welcome To FLAKS Duels and Dungeon [AETERNIS]
 <a id="Join Our Discord">https://discord.gg/kYnw3mJU7j</>
 ###### Map credit goes to <a id="Aleks_">https://mod.io/g/mordhau/u/aeternis-modding
-## This server consists of 3 modes/maps
-### "Ironside" designated for duels - do honor duels here.
-### "Dread" a horde Labyrinth dungeon, objective is escape in time.
-### "AeternisTesting" a giant map loaded with mini games; my personal favorite.
+## This server boasts 3 distinct modes/maps:
+### "Ironside": Reserved for honorable duels. Respect the sanctity of combat here.
+### "Dread" Navigate the labyrinthine horde dungeon, aiming to escape before time runs out.
+### "AeternisTesting" Explore a vast map brimming with thrilling mini-games; a personal favorite.
 
 ## Royal Decrees
-### Ironside is for duels, do respect this sacred decree.
-#### I don't mind if you FFA your freinds BUT DO NOT RDM those who only wish to Duel.
+### "Ironside" is exclusively for duels; honor this sacred decree. While friendly FFA is permitted, RDM against those seeking honorable combat is strictly prohibited.
 
-### Use of enchanted constructs known as 'hacks' or 'cheats' is strictly forbidden.
-##### Unless its the ragdol exploit, thats too funny!
+### Use of enchanted constructs known as 'hacks' or 'cheats' is strictly forbidden. (Except for the ragdoll exploit - that one's just too amusing!)
  
-## Ye Shall Simp For The Queen, RedSiren
-### Let your praises be sung like sweet lullabies in her ears, your adoration as steadfast as the mightiest castle walls.
+### Ye Shall Simp For The Queen, RedSiren
+#### Let your praises resonate like sweet melodies in her ears, your devotion steadfast as the mightiest castle walls.
 
-# Ignore these sacred decree's and if caught then prepare thy tight rear for the throbbing, LONG & HARD shaft of justice known as the banhammer. 
+# Disregard these sacred decrees at your peril! Those caught in violation shall prepare thy tight rear for the throbbing, LONG & HARD shaft of justice known as the banhammer. 
 
-<a id="Enjoy Mordhau Videos">https://www.youtube.com/@_FLAK_</>
+<a id="My Mordhau Videos">https://www.youtube.com/@_FLAK_</>
