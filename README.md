@@ -2,9 +2,9 @@
 <a id="Join Our Discord">https://discord.gg/kYnw3mJU7j</>
 ###### Map credit goes to <a id="Aleks_">https://mod.io/g/mordhau/u/aeternis-modding
 ## This server boasts 3 distinct modes/maps:
-### "Ironside": Reserved for honorable duels. Players require pressing E on eachother to start a duel.
+### "Ironside": "RDM-PROOF" Players require pressing E on eachother to start a duel.
 ### "Dread": Navigate the labyrinthine horde dungeon, aiming to escape before time runs out.
-### "AeternisTesting": Explore a vast map brimming with thrilling mini-games; a personal favorite.
+### "AeternisTesting": Explore a vast map brimming with thrilling mini-games and fun weapons; a personal favorite.
 
 # Royal Decrees
 ### Use of enchanted constructs known as 'hacks' or 'cheats' is strictly forbidden. (Except for the ragdoll exploit - that one's just too amusing!)
